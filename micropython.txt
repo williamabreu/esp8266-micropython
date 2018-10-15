@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=_hvzAOxMo48
+
+http://docs.micropython.org/en/latest/esp8266/tutorial/index.html
+
+https://pypi.org/project/adafruit-ampy/
+
+https://cdn-learn.adafruit.com/downloads/pdf/micropython-basics-load-files-and-run-code.pdf
+

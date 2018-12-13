@@ -1,0 +1,8 @@
+constant            value
+--------------------------
+STAT_IDLE             0
+STAT_CONNECTING	      1
+STAT_WRONG_PASSWORD	  2
+STAT_NO_AP_FOUND      3
+STAT_CONNECT_FAIL     4
+STAT_GOT_IP	          5
